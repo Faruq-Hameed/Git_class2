@@ -1,0 +1,61 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Name</title>
+  </head>
+<body>
+  <h1>My Name</h1>
+    <p>My name is Sebastian</p>
+  </body>
+</html>
+<div class="name">
+  <span class="letter red">J</span>
+  <span class="letter orange">o</span>
+  <span class="letter yellow">h</span>
+  <span class="letter green">n</span>
+  <span class="letter blue"> </span>
+  <span class="letter purple">D</span>
+  <span class="letter pink">o</span>
+  <span class="letter red">e</span>
+</div>
+
+.name {
+  font-size: 24px;
+}
+
+.letter {
+  display: inline-block;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+  text-shadow: 1px 1px 1px #ccc;
+}
+
+.red {
+  color: #ff0000;
+}
+
+.orange {
+  color: #ff6600;
+}
+
+.yellow {
+  color: #ffff00;
+}
+
+.green {
+  color: #00cc00;
+}
+
+.blue {
+  color: #0000ff;
+}
+
+.purple {
+  color: #660099;
+}
+
+.pink {
+  color: #ff99cc;
+}
+  
