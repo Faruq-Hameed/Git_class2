@@ -1,15 +1,14 @@
-
 <html> 
  
  <head> 
- <title> Andikan Etim </title> 
+ <title> Sebastian </title> 
  </head> 
  
  <body> 
  <div class = 'logo' > 
- <b> My Name is  </b> 
- <br> 
- Sebastian 
+ <b> Sebastian🌹❤️ </b> 
+ <br> <marquee>
+ Andycan Etim 😂😂😂🙄🤣 </marquee>
  </div> 
  </body> 
  
@@ -17,10 +16,10 @@
  @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap'); 
  body{ 
  font-family: 'Quicksand', sans-serif; 
- background: linear-gradient( to right, dodgerblue 0%, deepskyblue 100%); 
- color: white; 
+ background: linear-gradient( to right, green 0%, Pink 100%); 
+ color: yellow; 
  } 
- .logo{
+ .logo{ 
  text-align: center; 
  font-size: 50px; 
  margin-top: 100px; 
